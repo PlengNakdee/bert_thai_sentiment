@@ -9,5 +9,7 @@ https://github.com/PyThaiNLP/wisesight-sentiment
 
 ## Labels
 0 = Message with positive sentiment (~4,700)
+
 1 = Message with negative sentiment (~6,800) 
+
 2 = neu.txt Message with neutral sentiment (~14,500) 
