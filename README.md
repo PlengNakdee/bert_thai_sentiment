@@ -7,7 +7,7 @@ Tensorflow version = 1.15.2
 The dataset is from Wisesight Sentiment Corpus 
 https://github.com/PyThaiNLP/wisesight-sentiment
 
-The dataset was splited into 70% training set, 20% testingset, and 10% evaluation set.  
+The dataset was splited into 70% training set, 20% testing set, and 10% evaluation set.  
 
 ## Labels
 - 0 = Message with positive sentiment (~4,700)
