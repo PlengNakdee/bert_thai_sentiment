@@ -3,6 +3,10 @@ Using BERT pre-trained model to classify sentiment from Thai text
 
 Tensorflow version = 1.15.2
 
+## Pre-trained model
+You can download the model and save the files in the model folder
+- BERT-Base, Multilingual Cased (New, recommended) from https://github.com/google-research/bert
+
 ## Datasets
 The dataset is from Wisesight Sentiment Corpus 
 https://github.com/PyThaiNLP/wisesight-sentiment
