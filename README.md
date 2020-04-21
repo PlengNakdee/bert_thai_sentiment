@@ -4,8 +4,10 @@ Using BERT pre-trained model to classify sentiment from Thai text
 Tensorflow version = 1.15.2
 
 ## Datasets
-The datasets are from Wisesight Sentiment Corpus 
+The dataset is from Wisesight Sentiment Corpus 
 https://github.com/PyThaiNLP/wisesight-sentiment
+
+The dataset was splited into 70% training set, 20% testingset, and 10% evaluation set.  
 
 ## Labels
 0 = Message with positive sentiment (~4,700)
