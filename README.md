@@ -10,11 +10,9 @@ https://github.com/PyThaiNLP/wisesight-sentiment
 The dataset was splited into 70% training set, 20% testingset, and 10% evaluation set.  
 
 ## Labels
-0 = Message with positive sentiment (~4,700)
-
-1 = Message with negative sentiment (~6,800) 
-
-2 = neu.txt Message with neutral sentiment (~14,500) 
+- 0 = Message with positive sentiment (~4,700)
+- 1 = Message with negative sentiment (~6,800) 
+- 2 = neu.txt Message with neutral sentiment (~14,500) 
 
 ## Training text classification
 Using this command
