@@ -37,6 +37,15 @@ Using this command
 --output_dir=./output/ \
 --do_lower_case=False
 ```
+The result will look something like this:
+```
+***** Eval results *****
+eval_accuracy = 0.55984557
+eval_loss = 0.94853723
+global_step = 6903
+loss = 0.9484168
+```
+
 ## Testing text classification
 Using this command. You can change init_checkpoint according to the highest number in your output folder.
 ```
