@@ -40,10 +40,10 @@ Using this command
 The result will look something like this:
 ```
 ***** Eval results *****
-eval_accuracy = 0.55984557
-eval_loss = 0.94853723
+eval_accuracy = 0.72162163
+eval_loss = 0.7267346
 global_step = 6903
-loss = 0.9484168
+loss = 0.72626334
 ```
 
 ## Testing text classification
