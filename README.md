@@ -59,3 +59,8 @@ Using this command. You can change init_checkpoint according to the highest numb
 --max_seq_length=256 \
 --output_dir=./output/
 ```
+## My testing result
+- Accuracy: 0.645548
+- Precision: 0.613399
+- Recall: 0.563601
+- F1 score: 0.574437
